@@ -1,6 +1,6 @@
-![TechBowl Cover](../assets/techbowl_cover.png?raw=true)
-
 # Hey, this is us 👋
+
+![TechBowl Cover](../assets/techbowl_cover.png?raw=true)
 
 - [Official Website](https://techbowl.co.jp)
 - [TechTrain](https://techtrain.dev)
