@@ -1,4 +1,4 @@
-![TechBowl Cover](../assets/techbowl_cover.png)
+![TechBowl Cover](../assets/techbowl_cover.png?raw=true)
 
 # Hey, this is us 👋
 
